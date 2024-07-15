@@ -1,0 +1,504 @@
+.puma_topImg{
+
+  width: 100%;
+  height: 500px;
+  background-size: 100% 100%;
+}
+
+.bkgrnd_txt{
+  width: 40%;
+  position: absolute;
+  right: 80px;
+  top:150px;
+  text-align: center;
+}
+.boldtxt{
+  color: white;
+  font-size: 2.3rem;
+  margin: 0;
+}
+.S_boldtxt{
+  margin: 0;
+  color: white;
+  font-size: 24px;
+  font-weight: 400;
+}
+.p_txt{
+  margin: 5px 0px 15px 0px;
+  color: white;
+  font-size: 16px;
+}
+.bg_btn{
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.bg_btn button{
+  background: white;
+  border: none;
+  padding: 10px 20px;
+  color: black;
+  font-weight: 600;
+}
+.puma_top2Img{
+
+  width: 100%;
+  height: 500px;
+  background-size: 100% 100%;
+  position: relative;
+}
+.bkgrnd2_txt{
+  width: 45%;
+  position: absolute;
+  left:30px;
+  top:150px;
+  text-align: center;
+}
+.puma_top3Img{
+
+  width: 100%;
+  height: 500px;
+  background-size: 100% 100%;
+  position: relative;
+}
+#bgbtn{
+  margin-bottom: 15px;
+}
+.bkgrnd3_txt{
+  width: 200px;
+  position: absolute;
+  right:30px;
+  top:150px;
+  text-align: center;
+}
+.puma_top4Img{
+  width: 100%;
+  height: 500px;
+  background-size: 100% 100%;
+  position: relative;
+}
+.bkgrnd4_txt{
+  width: 45%;
+  position: absolute;
+  left:30px;
+  top:150px;
+}
+.bg_btn5{
+  display: flex;
+  gap: 10px
+  
+}
+.bg_btn5 button{
+  background: white;
+  border: none;
+  padding: 10px 20px;
+  color: black;
+  font-weight: 600;
+}
+/* .puma_top5Img{
+  width: 100%;
+  height: 500px;
+  background-size: 100% 100%;
+  position: relative;
+} */
+/* .puma_top6Img{
+  background-image: url(../img/52e4dd38bfc2f86dd4b8728b4d1fd39f8b30fe6a-6000x2167.webp);
+  width: 100%;
+  height: 500px;
+  background-size: 100% 100%;
+  position: relative;
+} */
+
+.bkgrnd6_txt{
+  text-align: center;
+  width: 45%;
+  position: absolute;
+  top: 150px;
+  right: 290px;
+}
+.bg_btn6{
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+.bg_btn6 button{
+  background: white;
+  border: none;
+  padding: 10px 20px;
+  color: black;
+  font-weight: 600;
+}
+/* 
+.puma_top7Img{
+  background-image: url(../img/72fb3fa9e0c4d6e600bc1b79551ef4cbba205719-6000x2167.webp);
+  width: 100%;
+  height: 500px;
+  background-size: 100% 100%;
+  position: relative; */
+}
+.bkgrnd7_txt{
+  text-align: center;
+  width: 40%;
+  position: absolute;
+  top: 150px;
+  right: 0;
+}
+
+/* .puma_top8Img{
+  background-image: url(../img/3fe7386927ec3ba13893df6dd4fe8dcafb576b25-6000x2167.webp);
+  width: 100%;
+  height: 400px;
+  background-size: 100% 100%;
+  position: relative;
+} */
+.bkgrnd8_txt{
+  width: 50%;
+  position: absolute;
+  top: 150px;
+  left: 50px;
+
+}
+/* .puma_top9Img{
+  background-image: url(../img/kareena.webp);
+  width: 100%;
+  height: 450px;
+  background-size: 100% 100%;
+  position: relative;
+} */
+#bkgrnd9clr{
+  width: 35%;
+}
+#bkgrnd9clr h2{
+  color: black;
+}
+#bkgrnd9clr h4{
+  color: black;
+}
+#bg9btn button{
+background-color: black;
+color: white;
+}
+
+/* .puma_top10Img{
+  background-image: url(../img/80d92bdf064393dc36761e47b7b28c7e6addb3e5-2880x1000.webp);
+  width: 100%;
+  height: 450px;
+  background-size: 100% 100%;
+  position: relative;
+} */
+#bkgrnd10clr{
+  text-align: center;
+  width:40%;
+}
+#bg10btn button{
+  background-color: #fff;
+}
+
+
+.pumaSpotLightSec_cont{
+  width: 90%;
+  margin:25px auto;
+}
+.spotligtbg{
+  width: 220px;
+  height: 210px;
+  position: relative;
+}
+.spotligtbg span{
+  position: absolute;
+  top: 0;
+  background-color: #AC1E1E;
+  color: white;
+  padding: 1px 7px;
+  border-radius: 3px;
+  font-size: 14px;
+}
+
+.spotligtbg img{
+  width: 100%;
+  height: 100%;
+}
+.spotText1{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.ms{
+  font-size: 14px;
+  font-weight: 500;
+}
+.spotText{
+  width: 220px;
+}
+.spotText2{
+  display: flex;
+  justify-content: space-between;
+}
+#pcid{
+  color: #AC1E1E;
+}
+
+.slick-prev {
+  left: -25px;
+  background: black;
+}
+.pumaFam{
+  width: 95%;
+  margin: 0 auto;
+}
+.pumaFamCont{
+
+align-items: center;
+flex-wrap: wrap;
+width: 100%;
+}
+
+.imgaMainBox_2{
+  width: 100%;
+  height: 200px;
+}
+.imgaMainBox_2 img{
+  width: 100%;
+  height: 100%;
+}
+/* footer section css */
+
+footer {
+  background-color: #181818;
+  color: #fff;
+  padding: 20px 0;
+  width: 100%;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-column {
+  flex: 1;
+  padding: 0 20px;
+}
+
+.footer-column h3 {
+  font-size: 15px;
+}
+
+.footer-column ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.footer-column ul li {
+  margin: 10px 0;
+}
+
+.footer-column ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer-column ul li a:hover {
+  text-decoration: underline;
+}
+.signUp{
+  text-decoration: none;
+  color: rgb(207, 197, 197);
+}
+<video class="w-full" autoplay controlslist="nodownload nofullscreen" disablepictureinpicture disableremoteplayback playsinline loop muted>media
+.socialIcon{
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+.exp h3{
+  font-weight: 500;
+  font-size: 18px;
+  margin-top:25px;
+}<source src="https://cdn.sanity.io/files/qa41whrn/prod/41abad3….mp4">
+.kidsWear_Box_Main{
+  width: 33%;
+  height: 250px;
+}
+.kidsWear_Box0{
+  background-image: url("./img/604102f5cbf9b160b4b545ab56561d152d06ac96-1536x1536.jpg");
+  width: 100%;
+  height: 100%;
+  background-size:100% 100%;
+  position: relative;
+}
+.kidsWear_Box1{
+  background-image: url("./img/dfe752b0a313bc267f5aa23a412594d71f933c2b-1536x1536.jpg");
+  width: 100%;
+  height: 100%;
+  background-size:100% 100%;
+  position: relative;
+}
+.kidsWear_Box2{
+  background-image: url("./img/5bc14638c184c4c775b2f90210427c3dd4aa33c1-1536x1536.jpg");
+  width: 100%;
+  height: 100%;
+  background-size:100% 100%;
+  position: relative;
+}
+.kidsWear_Box3{
+  background-image: url("./img/ec1fd75b27717e7a78c3fcf71e855d7298329370-1536x1536.jpg");
+  width: 100%;
+  height: 100%;
+  background-size:100% 100%;
+  position: relative;
+}
+.kids_cont{
+  display: flex;
+  width: 95%;
+  padding-bottom: 50px;
+  margin: 0 auto;
+  gap: 15px;
+}
+.boxtxt{
+  position: absolute;
+  bottom: 0;
+  left: 20px;
+  color: white;
+  font-family: math;
+}
+.boxtxt h3{
+  margin-bottom:3px;
+}
+.boxtxt p{
+  margin-top:0;
+}
+
+/* css for login page */
+
+/* LoginPage.css */
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.login-container {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  background-color: #FFFFFF;
+}
+
+.Register-container {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  background-color: #FFFFFF;
+}
+
+.login-form {
+  padding:0rem 2rem 2rem 2rem;
+  width: 420px;
+
+}
+
+.login-form h2 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+  color: #333;
+  padding-bottom: 10px;
+  border-bottom:2px solid black ;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 0.7rem 0px;
+  border: 1px solid black;
+  border-radius: 1px;
+}
+
+button {
+  width: 100%;
+  padding: 0.75rem;
+  background-color: #80808094;
+  color: gray;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.Disc_banner{
+  background-color:#C23B3C;
+  width: 100%;
+  text-align: center;
+  color: white;
+  padding: 10px 0px;
+}
+.Disc_bannerCont{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.Disc_bannerCont p{
+  font-weight: 600;
+  margin: 5px 0px;
+}
+.shopNow a{
+  text-decoration: none;
+  color: white;
+  border-bottom: 1px solid;
+
+
+}
+.shopNow{
+  margin:0px 0px 5px 0px;
+  font-size: 15px;
+}
+.Disc_bannerCont h3{
+  margin: 5px 0px;
+}
+
+.myact{
+  margin: 10px;
+  margin-left: 59px;
+  margin-top: 30px;
+  font-size: 3rem;
+
+}
+.otp{
+  margin: 25px 0px;
+  font-size: 14px;
+}
+
+
+@media screen and (max-width:450px) {
+.login-form{
+  width: 90%;
+  padding: 0;
+  margin: 0 auto;
+}
+.myact{
+  font-size: 2rem;
+}
+.footer-container{
+  width: 100%;
+  display: block;
+}
+/* .Show-accord{
+  display: none;
+}
+.active{
+  display: block;
+} */
+}
